@@ -1,3 +1,1 @@
-# GDSC Initiation Project
-
-## 
+# QMIND Initiation Project
